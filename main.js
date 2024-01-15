@@ -1,5 +1,5 @@
 canvas = document.getElementById('myCanvas');
-ctx = canvas.getContext("2d");
+
 
 background_image = "parkingLot.jpg";
 greencar_image = "car2.png";
